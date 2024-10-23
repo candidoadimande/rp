@@ -1,0 +1,18 @@
+.item {
+  width: 250px;
+  margin: 0 auto;
+}
+.itemName {
+  padding: 20px;
+}
+.deleteItem {
+  float: right;
+}
+.deleteItem button {
+  border: none;
+  background-color: #f7ca18;
+}
+
+.completed {
+  text-decoration: line-through;
+}

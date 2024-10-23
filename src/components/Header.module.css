@@ -1,0 +1,9 @@
+  .Header {
+    background-color: #f7ca18;
+    font-family: Sans-Serif;
+    padding: 1.5em;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    box-shadow: 0 4px 6px rgb(0,0,0,0.2);
+  }
